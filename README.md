@@ -1,2 +1,2 @@
 # DataScienceNG-Kaggle-Competition
-Kaggle ompetition
+Kaggle Competition
